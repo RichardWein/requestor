@@ -1,0 +1,21 @@
+body {
+  background-color: burlywood;
+  
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  height: auto;
+}
+
+.greeting {
+  margin-top: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.greeting-img {
+  text-align: center;
+  margin-top: 100px;
+}
